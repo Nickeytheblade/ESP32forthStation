@@ -11,7 +11,7 @@ Based on the work of several open source projects (see below) it was possible to
 
 The ESP32forthStation hardware uses the
 
-- [TTGO VGA32 board](https://lilygo.cc/en-us/products/fabgl-vga32?srsltid=AfmBOoordtHuujbXvx0PkNiL74dXsgOSMCzMHp1uempBhgZtKE7bVigTgSI) by [LillyGo](http://www.lilygo.cn), an ESP32 board with PS/2 Mouse, PS/2 keyboard, VGA video output, audio connectorm an micro SD card slot, some I/O pins as well as a 3.3V serial line. ESP32forthStation uses version V1.4 of that board.
+- [TTGO VGA32 board](https://lilygo.cc/en-us/products/fabgl-vga32?srsltid=AfmBOoordtHuujbXvx0PkNiL74dXsgOSMCzMHp1uempBhgZtKE7bVigTgSI) by [LillyGo](http://www.lilygo.cc), an ESP32 board with PS/2 Mouse, PS/2 keyboard, VGA video output, audio connectorm an micro SD card slot, some I/O pins as well as a 3.3V serial line. ESP32forthStation uses version V1.4 of that board.
 
 - [TTGO VGA32 Case](https://www.thingiverse.com/thing:4675382) from thingiverse by [Neil Bowden](https://www.thingiverse.com/firepower9966/designs) 3D printed on a PLA filament printer.
 

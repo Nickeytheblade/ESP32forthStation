@@ -52,7 +52,7 @@ Ulrich Hoffmann uho@xlerb.de
 ---
 
 ## Journal
-
+- 2026-02-11 Ported to Platfromio; Beefed up case and cad file
 - 2023-02-10 Publication of this repository
 
 - 2022-12-10 [Presentation of ESP32forthStation](doc/So_this_is_Christmas-ESP32forthStation.pdf) 
